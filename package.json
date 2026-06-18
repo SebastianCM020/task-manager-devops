@@ -1,0 +1,29 @@
+{
+  "name": "task-manager-devops",
+  "version": "1.0.0",
+  "description": "Repositorio para el trabajo final de la materia de DevOps, se simula:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianCM020/task-manager-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SebastianCM020/task-manager-devops/issues"
+  },
+  "homepage": "https://github.com/SebastianCM020/task-manager-devops#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "supertest": "^7.2.2"
+  }
+}
